@@ -1,0 +1,18 @@
+1. The problems I found :
+The main problem is understanding the API's, as API's are new to me, I almost took some four hours to understand.
+Delay and breaks were the most annoying problems I found.
+2. My approach to debug it:
+Initially I gone thorough sample programs, and tried to write the data into a file rather than socket.
+I changed the "buffer" size to get break free communication.
+3. How you had solved it:
+By changing the delay and buffer size.
+4. What are problems which are still not solved:
+I still have some kind of hissing sound and delay while checking for end to end connection.
+
+
+What are the improvement you can suggest to make this a better appliance?
+
+I suggest to first compress the data and send on the network, also encryption would give security.
+
+
+
